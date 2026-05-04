@@ -1,0 +1,15 @@
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.AssemblyInfoInputs.cache
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.AssemblyInfo.cs
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.csproj.CoreCompileInputs.cache
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.sourcelink.json
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/bin/Debug/net10.0/dotnetProjectConfig
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/bin/Debug/net10.0/dotnetProjectConfig.deps.json
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/bin/Debug/net10.0/dotnetProjectConfig.runtimeconfig.json
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/bin/Debug/net10.0/dotnetProjectConfig.dll
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/bin/Debug/net10.0/dotnetProjectConfig.pdb
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.dll
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/refint/dotnetProjectConfig.dll
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.pdb
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/dotnetProjectConfig.genruntimeconfig.cache
+/Users/zamzamft/Library/CloudStorage/OneDrive-HögskolanDalarna/B.S.Informatics/Algoritmer och mjukvarudesign/GMI24H_Lab1/obj/Debug/net10.0/ref/dotnetProjectConfig.dll
